@@ -1,2 +1,3 @@
 # Hello-World
-This is a test
+
+I am new to this coding thing, but I plan to be the best "Coder" EVER!!!
